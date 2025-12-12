@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Environment (CRITICAL!)
+.env
+
+# Test files
+test_*.pdf
+test_*.docx
+
+# Temporary
+temp_uploads/
+*.tmp
